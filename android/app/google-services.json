@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "754606390926",
+    "project_id": "fcm-zenn",
+    "storage_bucket": "fcm-zenn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754606390926:android:0e0985ba4d5da7743713df",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754606390926-65tepm2ju5nll15al21jmbd7ag478oq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKT8ZlcB-JnhJTwuA3vO2ieT-DsuQnCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754606390926-65tepm2ju5nll15al21jmbd7ag478oq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754606390926-re6nfjqfp8qillpb8r7vc0cnino4cnbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
